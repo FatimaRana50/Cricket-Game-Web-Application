@@ -1,0 +1,8 @@
+{
+  "short_name": "Cricket Blitz",
+  "name": "Cricket Blitz — 2D Cricket Game",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0e1a",
+  "background_color": "#0a0e1a"
+}
